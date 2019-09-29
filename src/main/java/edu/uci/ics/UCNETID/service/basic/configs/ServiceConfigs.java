@@ -1,6 +1,6 @@
-package edu.uci.ics.cs122b.activity.wk1.configs;
+package edu.uci.ics.UCNETID.service.basic.configs;
 
-import edu.uci.ics.cs122b.activity.wk1.logger.ServiceLogger;
+import edu.uci.ics.UCNETID.service.basic.logger.ServiceLogger;
 
 public class ServiceConfigs {
 

@@ -1,10 +1,10 @@
-package edu.uci.ics.cs122b.activity.wk1;
+package edu.uci.ics.UCNETID.service.basic;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.dataformat.yaml.YAMLFactory;
-import edu.uci.ics.cs122b.activity.wk1.configs.ConfigsModel;
-import edu.uci.ics.cs122b.activity.wk1.configs.ServiceConfigs;
-import edu.uci.ics.cs122b.activity.wk1.logger.ServiceLogger;
+import edu.uci.ics.UCNETID.service.basic.configs.ConfigsModel;
+import edu.uci.ics.UCNETID.service.basic.configs.ServiceConfigs;
+import edu.uci.ics.UCNETID.service.basic.logger.ServiceLogger;
 import org.glassfish.grizzly.http.server.HttpServer;
 import org.glassfish.jersey.grizzly2.httpserver.GrizzlyHttpServerFactory;
 import org.glassfish.jersey.jackson.JacksonFeature;
